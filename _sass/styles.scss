@@ -1,2 +1,23 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+
+.blockquote-caption {
+    font-size: 14px;
+    font-style: italic;
+    display: block;
+    margin: 0;
+    padding: 10px;
+    padding-top: 0px;
+    text-align: left;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.final-item {
+    text-align: center;
+    font-style: italic;
+}
+
+.italic-item {
+    font-style: italic;
+}

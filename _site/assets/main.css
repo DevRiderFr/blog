@@ -2516,4 +2516,10 @@ header.masthead .post-heading .meta a { color: #fff; }
 
 @media only screen and (min-width: 768px) { .post-preview > a > .post-title { font-size: 36px; } }
 
+.blockquote-caption { font-size: 14px; font-style: italic; display: block; margin: 0; padding: 10px; padding-top: 0px; text-align: left; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; }
+
+.final-item { text-align: center; font-style: italic; }
+
+.italic-item { font-style: italic; }
+
 /*# sourceMappingURL=main.css.map */
